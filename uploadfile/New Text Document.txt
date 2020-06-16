@@ -1,0 +1,12 @@
+http://nhasachtinhoc.blogspot.com/2020/04/chia-se-khoa-hoc-docker-tu-zero-den-hero.html
+
+
+mongodb://<dbuser>:<dbpassword>@ds135382.mlab.com:35382/CloudFoundry_9s21s739_46jkism3
+
+
+
+
+cf push dohung-org -p target\QTGD-TTTT-0.0.1-SNAPSHOT.jar
+
+
+https://www.javainuse.com/pcf/pcf-hello
